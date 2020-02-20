@@ -1,3 +1,3 @@
 # Portfolio
 
-View my project [online](https://lucbeenen.github.io/Portfolio/)
+View my project [online](https://lucbeenen.github.io/Portfolio/).
